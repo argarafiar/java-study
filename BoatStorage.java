@@ -10,7 +10,7 @@ public class BoatStorage {
         Owner owner1 = new Owner("Arga", "Surabaya");
         Owner owner2 = new Owner("Budi", "Malang");
         owner.add(owner1);
-        owner.add(owner2);
+        owner.add(owner2); 
 
         //soal no 2
         SailBoat sailBoat1 = new SailBoat("kapal layar", 10, 10, 10, 10, 10);
